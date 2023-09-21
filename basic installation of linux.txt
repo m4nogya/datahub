@@ -1,0 +1,6 @@
+basic installation of linux
+every thing about server
+server version 
+server specs
+
+zabbix 4 host 2 linux one pc all graphs alert notification

@@ -1,0 +1,9 @@
+Severity,Time,Recovery time,Status,Host,Problem,Duration,Ack,Actions,Tags,,,,,,,,,,,,,,,,
+Disaster,7/16/2023 4:17,,PROBLEM,Kamana-UDP-Console-Pro,DISK SIZE LESS THAN 10 % IN E,2d 6h 34m,No,Actions (2),"__zbx_rc_id: uuZSeAoCbfn3aMcpX, __zbx_rc_msg_url: https://rocketchat.datahub.com.np/group/monitor-infra_zabbix?msg=uuZSeAoCbfn3aMcpX, __zbx_rc_rid: HoBeYZsz9o7uH8Wcb",,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+Severity,Time,Recovery time,Status,Host,Problem,Duration,Ack,Actions,Tags,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+High,45125.44916,0,PROBLEM,DataHub-Mysql-03,High memory utilization (>90% for 5m),1m 5s,No,Actions (5),"__zbx_rc_id: L68shZGdh7AxbGYZT, __zbx_rc_msg_url: https://rocketchat.datahub.com.np/group/mgmt_zabbix?msg=L68shZGdh7AxbGYZT, __zbx_rc_rid: HuoGYJwQZKTmi3e2r",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Warning,45123.37203,0,PROBLEM,DataHub-EC-XS12,/var/log: Disk space is low (used > 80%),2d 1h 52m,No,Actions (4),"__zbx_rc_id: 3coy3HMnQorruoi5N, __zbx_rc_msg_url: https://rocketchat.datahub.com.np/group/mgmt_zabbix?msg=3coy3HMnQorruoi5N, __zbx_rc_rid: HuoGYJwQZKTmi3e2r",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,
+Severity,Time,Recovery time,Status,Host,Problem,Duration,Ack,Actions,Tags,,,,,,,,,,,,,,,,
+High,7/16/2023 3:52,,PROBLEM,GROWTHSELLER-VM-EC,Used Memory on GROWTHSELLER-VM-EC in Percentage,2d 7h,No,,,,,,,,,,,,,,,,,,

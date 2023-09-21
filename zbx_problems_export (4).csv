@@ -1,0 +1,21 @@
+DAILY MONITORING AND SUPPORT TICKETS DATE:7/16/2023,,,,,,,,,
+Severity,Time,Recovery time,Status,Host,Problem,Duration,Ack,Actions,Tags
+High,7/16/2023 16:10,,PROBLEM,DH_FW_FG1100E,Download-IN traffic on IF port29,6m 38s,No,Actions (2),"__zbx_rc_id: 5smX2ENRb9QeWQMQL, __zbx_rc_msg_url: https://rocketchat.datahub.com.np/group/mgmt_zabbix?msg=5smX2ENRb9QeWQMQL, __zbx_rc_rid: HuoGYJwQZKTmi3e2r"
+Warning,7/16/2023 8:55,,PROBLEM,DataHub-EC-XS12,/var/log: Disk space is low (used > 80%),7h 21m 12s,No,Actions (4),"__zbx_rc_id: 3coy3HMnQorruoi5N, __zbx_rc_msg_url: https://rocketchat.datahub.com.np/group/mgmt_zabbix?msg=3coy3HMnQorruoi5N, __zbx_rc_rid: HuoGYJwQZKTmi3e2r"
+,,,,,,,,,
+Severity,Time,Recovery time,Status,Host,Problem,Duration,Ack,Actions,Tags
+Average,7/16/2023 11:37,7/16/2023 14:52,RESOLVED,NEPSESFTP,Zabbix http poller processes more than 75% busy,3h 15m 23s,No,,
+,,,,,,,,,
+Severity,Time,Recovery time,Status,Host,Problem,Duration,Ack,Actions,Tags
+High,7/16/2023 3:52,,PROBLEM,GROWTHSELLER-VM-EC,Used Memory on GROWTHSELLER-VM-EC in Percentage,13h 24m 52s,No,,
+,,,,,,,,,
+Ticket Number,Date Created,Subject,From,From Email,Priority,Department,Help Topic,Source,Current Status
+DHKTM-26485,7/16/2023 17:10,TMS SSL VPN user credential change,Kiran Kafle,kiran.kafle@ycosolutions.com,Normal,IT,,Email,Open
+DHKTM-26482,7/16/2023 15:59,setup windows server,Raja Ram Nepal,raja@thulo.com,Normal,Sales,,Email,Open
+DHKTM-26481,7/16/2023 15:59,UPGRADE-KALPA EXPRESS,Roshni Rayamajhi,roshni.rayamajhi@datahub.com.np,Normal,IT,,Email,Open
+DHKTM-26474,7/16/2023 12:20,Delete TUNA-CLONE-VM8 & Clone New VM from TUNA-VM2-EC3,Jeewan Kunwar,jeewan@tunatechnology.com,Normal,IT,,Email,Open
+DHKTM-26473,7/16/2023 12:14,Fwd: Regarding VLan info,Keshab Bahadur Sunari,bskeshab.cloudsewa@gmail.com,Normal,IT,,Email,Open
+,,,,,,,,,
+Severity,Time,Recovery time,Status,Host,Problem,Duration,Ack,Actions,Tags
+Disaster,7/16/2023 4:17,,PROBLEM,Kamana-UDP-Console-Pro,DISK SIZE LESS THAN 10 % IN E,12h 59m 16s,No,Actions (2),"__zbx_rc_id: uuZSeAoCbfn3aMcpX, __zbx_rc_msg_url: https://rocketchat.datahub.com.np/group/monitor-infra_zabbix?msg=uuZSeAoCbfn3aMcpX, __zbx_rc_rid: HoBeYZsz9o7uH8Wcb"
+,,,,,,,,,
